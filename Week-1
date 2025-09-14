@@ -1,0 +1,13 @@
+Day-1 :- Setup & Orientation.
+
+1. Just create a free account in TryHackMe and HackTheBox.
+2. Download and install virtualzation software: VirtualBox/ VMware Workstation Player.
+3. Download & install a pentesting distro: Kali Linux
+4. Learn basic commands (docs): https://linuxcommand.org/lc3_learning_the_shell.php
+                                Commands: whoami, id, pwd, ls -la, uname -a, cat /etc/os-release
+
+Day-2 :- Linux Fundamentals (core shell)
+
+1. Do Linux Fundamentals Part 1 – TryHackMe: https://tryhackme.com/room/linuxfundamentalspart1
+
+
