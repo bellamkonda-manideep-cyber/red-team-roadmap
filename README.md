@@ -1,4 +1,4 @@
-# 🚩 My Roadmap to Become a Red Teamer
+# 🚩 Roadmap to Become a Red Teamer
 
 **Short description:** A personal, step-by-step roadmap and study log that documents my journey from fundamentals to professional red teaming. This repo contains study notes, labs, write-ups, CTF solutions,
 and a progress tracker.
