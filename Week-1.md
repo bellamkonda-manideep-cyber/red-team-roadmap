@@ -77,7 +77,7 @@ Day-7 :- Shell Scripting Basics
 Learn about shebang (#!/bin/bash).
 
 Resources :- https://ryanstutorials.net/bash-scripting-tutorial/
-             https://www.youtube.com/watch?v=e7BufAVwDiM
+             YouTube :- https://www.youtube.com/watch?v=e7BufAVwDiM
 
 
 At the end of Week 1, we will:
