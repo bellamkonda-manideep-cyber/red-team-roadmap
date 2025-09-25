@@ -4,19 +4,19 @@ Day-1 :- Setup & Orientation.
   
 2. Download and install virtualzation software: VirtualBox/ VMware Workstation Player.
    
-3. Download & install a pentesting distro: Kali Linux : https://www.kali.org/get-kali/#kali-platforms
+3. Download & install a pentesting distro: [Install Kali Linux](https://www.kali.org/get-kali/#kali-platforms)
    
-4. Install AlmaLinux 9 (Red Hat–compatible) or RHEL Developer Subscription in VMware: https://almalinux.org/get-almalinux/
+4. Install AlmaLinux 10 (Red Hat–compatible) VMware: [Install ALmaLinux](https://almalinux.org/get-almalinux/)
    
-5. Learn basic commands (docs): https://linuxcommand.org/lc3_learning_the_shell.php
+5. Learn basic commands (docs): [commands](https://linuxcommand.org/lc3_learning_the_shell.php)
                                 Commands: whoami, id, pwd, ls -la, uname -a, cat /etc/os-release
    
 
 Day-2 :- Linux Fundamentals (core shell)
 
-1. Do Linux Fundamentals Part 1 – TryHackMe: https://tryhackme.com/room/linuxfundamentalspart1
+1. Do Linux Fundamentals Part 1 – [TryHackMe](https://tryhackme.com/room/linuxfundamentalspart1)
    
-2. Core commands practice: https://www.redhat.com/en/blog/linux-file-permissions-explained
+2. Core concepts: [Understanding core concepts](https://ryanstutorials.net/linuxtutorial/) 
    
 
 Day-3 :– Permissions & Ownership
@@ -27,7 +27,7 @@ Day-3 :– Permissions & Ownership
 
 3. Practice: create a file, restrict access, test with another user.
 
-Resources :- https://www.tutorialspoint.com/unix/unix-file-permission.htm
+Resources :- [File Permissions](https://www.tutorialspoint.com/unix/unix-file-permission.htm)
 
 
 Day-4 :– Users & Groups
@@ -38,7 +38,7 @@ Day-4 :– Users & Groups
 
 3. Switch users: su, sudo.
 
-Resources :- https://labex.io/lesson/users-and-groups
+Resources :- [Users and Groups](https://labex.io/lesson/users-and-groups)
 
 
 Day-5 :– Process Management & Services
@@ -49,8 +49,7 @@ Day-5 :– Process Management & Services
 
 3. Check logs with journalctl.
    
-Resources :- https://wiki.archlinux.org/title/Systemd
-             YouTube:- https://www.youtube.com/watch?v=Kzpm-rGAXos
+Resources :- [Systemd](https://wiki.archlinux.org/title/Systemd), [YouTube Video for Systemd](https://www.youtube.com/watch?v=Kzpm-rGAXos)
 
 Day-6 :- Networking Basics
 
@@ -60,8 +59,7 @@ Day-6 :- Networking Basics
 
 3. Configure static IP inside VM (lab)
 
-Resources :- https://www.tecmint.com/ip-command-examples/
-             Cisco Networking Basics Course :- https://www.netacad.com/courses/networking-basics?courseLang=en-US
+Resources :- [IP Command Examples](https://www.tecmint.com/ip-command-examples/), [Cisco Networking Basics Course](https://www.netacad.com/courses/networking-basics?courseLang=en-US)
 
 
 Day-7 :- Shell Scripting Basics
@@ -76,8 +74,7 @@ Day-7 :- Shell Scripting Basics
 
 Learn about shebang (#!/bin/bash).
 
-Resources :- https://ryanstutorials.net/bash-scripting-tutorial/
-             YouTube :- https://www.youtube.com/watch?v=e7BufAVwDiM
+Resources :- [Bash Scripting](https://ryanstutorials.net/bash-scripting-tutorial/), [YouTube Video for Bash Scripting](https://www.youtube.com/watch?v=e7BufAVwDiM)
 
 
 At the end of Week 1, we will:
