@@ -50,7 +50,7 @@ Day-5 :– Process Management & Services
 3. Check logs with journalctl.
    
 Resources :- https://wiki.archlinux.org/title/Systemd
-             https://www.youtube.com/watch?v=Kzpm-rGAXos
+             YouTube:- https://www.youtube.com/watch?v=Kzpm-rGAXos
 
 Day-6 :- Networking Basics
 
