@@ -6,7 +6,7 @@ Day-1 :- Setup & Orientation.
    
 3. Download & install a pentesting distro: [Install Kali Linux](https://www.kali.org/get-kali/#kali-platforms)
    
-4. Install AlmaLinux 10 (Red Hat–compatible) VMware: [Install ALmaLinux](https://almalinux.org/get-almalinux/)
+4. Install Metasploitable2 VMware: [Install Metasploitable2](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
    
 5. Learn basic commands (docs): [commands](https://linuxcommand.org/lc3_learning_the_shell.php)
                                 Commands: whoami, id, pwd, ls -la, uname -a, cat /etc/os-release
